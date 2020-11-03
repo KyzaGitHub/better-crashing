@@ -87,7 +87,7 @@ if (
 								React.createElement(
 									"p",
 									{},
-									"Better Crashing caught an error. Spam ping Bowser in the Powercord server for support." // Placeholder string. Replace before releasing.
+									"Better Crashing caught an error. Ask in the Powercord server for support."
 								),
 								React.createElement(
 									"p",
