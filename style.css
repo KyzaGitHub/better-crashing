@@ -1,0 +1,14 @@
+[class*="errorPage-"] [class*="text-"] {
+	width: 66%;
+}
+
+[class*="errorPage-"] code {
+	max-height: 200px;
+	overflow-y: auto;
+	background-color: #2f3136;
+	text-align: left;
+	user-select: text;
+}
+[class*="errorPage-"] code button {
+	display: none;
+}
