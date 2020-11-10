@@ -193,7 +193,7 @@ if (
 		pluginWillUnload() {
 			if (
 				(uninject("better-crashing-error-boundary"),
-				uninject("better-crashing-crash=event"),
+				uninject("better-crashing-crash-event"),
 				false)
 			) {
 			}
